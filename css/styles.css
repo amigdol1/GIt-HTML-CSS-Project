@@ -35,7 +35,7 @@ img {
 	width: 25%;
 	margin-top: 5px;
 	margin-right: 35px;
-	margin-bottom: 5px;
+	margin-bottom: 15px;
 }
 
 .about_alex p {
@@ -50,4 +50,11 @@ img {
 	border: 1px solid #959492;
 	background: white;
 	padding: 4px;
+}
+
+/* Desktop to mobile */
+@media screen and (max-width: 992px) {
+	img {
+		display: none;
+	}
 }
