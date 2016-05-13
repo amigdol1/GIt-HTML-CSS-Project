@@ -1,0 +1,24 @@
+h1 {
+	border: 2px solid #959492;
+	background: white;
+	padding: 10px;
+}
+
+.container {
+	background: #EFEEEC;
+	border: 3px solid #959492;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.row .col-md-8 .col-md-12 {
+	border: 1px solid #959492;
+	padding-left: 8px;
+	background: white;
+}
+
+.row .col-md-4 .col-md-12 {
+	border: 1px solid #959492;
+	padding-left: 8px;
+	background: white;
+}
