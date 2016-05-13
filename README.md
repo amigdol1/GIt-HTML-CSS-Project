@@ -17,7 +17,7 @@ This web page is a landing page covering Alex Migdol's protfolio.  It includes t
 * Bootstrap
 
 ## Link to GitHub Pages
-amigdol1.github.io/GIt-HTML-CSS-Project
+Click [here] to view (amigdol1.github.io/GIt-HTML-CSS-Project)
 
 ## Legal
 Copyright (c) 2016 Alex Migdol <br />
