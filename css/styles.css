@@ -49,7 +49,7 @@ img {
 .about_alex h3 {
 	border: 1px solid #959492;
 	background: white;
-	padding: 4px;
+	padding: 6px;
 }
 
 /* Desktop to mobile */
@@ -57,4 +57,12 @@ img {
 	img {
 		display: none;
 	}
+}
+
+p {
+	font-size: 16px;
+}
+
+span {
+	font-style: italic;
 }
